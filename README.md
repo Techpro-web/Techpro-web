@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a cyber tech expert, granded on ethical hacking, networking analysis, penetration testing and coding also using python 
 <!--
 **Techpro-web/Techpro-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
